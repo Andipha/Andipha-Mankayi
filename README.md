@@ -16,13 +16,20 @@ I'm a qualified somatologist transitioning into software development. With a str
 
 ## 🛠️ Tech Stack
 
+**Current Tech**
 - Languages:     HTML | CSS | JavaScript
 - Frameworks:    Tailwind CSS(learning)
 - Tools:         Git | GitHub | VS Code
 
+**Future Tech**
+- Languages:     Python | Jva |PHP 
+- Frameworks:    Express.js | Angular
+- Tools: 
+
+
   
 
-📌 Featured Projects
+## 📌 Featured Projects
 
 Here are some of the repositories I’m most proud of:
 
@@ -30,7 +37,7 @@ Here are some of the repositories I’m most proud of:
 
 🎨 CS Footer  — This project was focused on applying all you've learned to design a fully responsive website footer
 
-📫 Contact Me
+## 📫 Contact Me
 📧 Email: andipha.mankayi@gmail.com
 
 💼 LinkedIn: Andipha Mankayi https://www.linkedin.com/in/andipha-mankayi-8bab60232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlL2AFdhUS0SxeRkgAqR73w%3D%3D
@@ -39,7 +46,6 @@ Here are some of the repositories I’m most proud of:
 🌱 Let's Connect and Grow Together!
 “The best way to learn is by doing and sharing.”
 Thanks for visiting my profile! 🌟 Feel free to explore my repositories or connect with me on LinkedIn.
-
 
 
 
