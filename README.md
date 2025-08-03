@@ -1,7 +1,7 @@
 # Andipha-Mankayi
 # 👋 Hi there, I'm Andipha Mankayi!
 
-I'm a qualified somatologist transitioning into software development. With a strong background in wellness, client care, and aesthetics, I've developed an eye for detail and a deep appreciation for user-centered design. Currently, I'm learning web development (HTML, CSS, JavaScript) and working on beginner projects to sharpen my skills, open-source collaboration, and continuous learning. My goal is to merge my wellness experience with technology to create beautiful, functional, and accessible digital solutions.
+I'm a qualified somatologist transitioning into software development. With a strong background in wellness, client care, and aesthetics, I've developed an eye for detail and a deep appreciation for user-centered design. Currently, I'm learning software development at **CodeSpace Academy** and working on beginner projects to sharpen my skills, open-source collaboration, and continuous learning. My goal is to merge my wellness experience with technology to create beautiful, functional, and accessible digital solutions.
 
 ---
 
@@ -24,32 +24,31 @@ I'm a qualified somatologist transitioning into software development. With a str
 **Future Tech**
 - Languages:     Python | Jva |PHP 
 - Frameworks:    Express.js | Angular
-- Tools: 
-
-
   
+
 
 ## 📌 Featured Projects
 
-Here are some of the repositories I’m most proud of:
+**Here are some of the repositories I’m most proud of:**
 
-🔧 CS Cat HTML Portfolio — This challenge was all about building a portfolio webpage for CodeSpace Cat using structured HTML and your own custom CSS
+🔧 **CodeSpace Cat HTML Portfolio** — This challenge was all about building a portfolio webpage for CodeSpace Cat using structured HTML and your own custom CSS
 
-🎨 CS Footer  — This project was focused on applying all you've learned to design a fully responsive website footer
+🎨 **CodeSpace Footer**  — This project was focused on applying all you've learned to design a fully responsive website footer
 
 ## 📫 Contact Me
+
 📧 Email: andipha.mankayi@gmail.com
 
 💼 LinkedIn: Andipha Mankayi https://www.linkedin.com/in/andipha-mankayi-8bab60232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlL2AFdhUS0SxeRkgAqR73w%3D%3D
 
 
-🌱 Let's Connect and Grow Together!
+🌱 **Let's Connect and Grow Together!**
 “The best way to learn is by doing and sharing.”
 Thanks for visiting my profile! 🌟 Feel free to explore my repositories or connect with me on LinkedIn.
 
+### 📊 GitHub Stats
 
+![Andipha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andipha&show_icons=true&theme=radical)
 
-
-Tools
 
 
