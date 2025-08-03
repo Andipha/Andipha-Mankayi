@@ -16,25 +16,25 @@ I'm a qualified somatologist transitioning into software development. With a str
 
 ## 🛠️ Tech Stack
 
+- Languages:     HTML | CSS | JavaScript
+- Frameworks:    Tailwind CSS(learning)
+- Tools:         Git | GitHub | VS Code
 
-Languages:     HTML | CSS | JavaScript
-Frameworks:    TailwindCSS(learning)
-Tools:         Git | GitHub | VS Code 
+  
+
 📌 Featured Projects
+
 Here are some of the repositories I’m most proud of:
 
-🔧 Project Name — A short description of your project
+🔧 CS Cat HTML Portfolio — This challenge was all about building a portfolio webpage for CodeSpace Cat using structured HTML and your own custom CSS
 
-🎨 Another Project — Another description, what technologies you used, etc.
-
-🌐 Personal Website — Built with HTML, CSS, JavaScript
+🎨 CS Footer  — This project was focused on applying all you've learned to design a fully responsive website footer
 
 📫 Contact Me
 📧 Email: andipha.mankayi@gmail.com
 
-💼 LinkedIn: Andipha Mankayi
+💼 LinkedIn: Andipha Mankayi https://www.linkedin.com/in/andipha-mankayi-8bab60232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlL2AFdhUS0SxeRkgAqR73w%3D%3D
 
-🌐 Portfolio: yourwebsite.com (if available)
 
 🌱 Let's Connect and Grow Together!
 “The best way to learn is by doing and sharing.”
